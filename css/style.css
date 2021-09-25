@@ -54,11 +54,15 @@ h4 {
 }
 
 h2,
-h3,
+/*h3, JE changed this (see below) to get "Online Classes" to line up correctly*/
 h4,
 h5 {
   padding:10px 5%;
+}
 
+h3 {
+  padding-top: 30px;
+  padding-right: 0px;
 }
 
 
